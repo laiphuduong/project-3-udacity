@@ -40,5 +40,5 @@ after_success:
   - docker push duonglp97/udagram-api-feed:v1
   - docker push duonglp97/udagram-api-user:v1
   - docker push duonglp97/udagram-frontend:v1
-  - docker push duonglp97/udagram-reverseproxy:v1
+  - docker push duonglp97/reverseproxy:v1
 
